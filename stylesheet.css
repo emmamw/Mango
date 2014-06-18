@@ -18,7 +18,7 @@ body{
 	src: url("PrintClearly_TT.ttf") format("truetype");
 }
 /*End of custom fonts*/
-
+/*Beginning of Main Page styling*/
 #header{
 	text-align:center;
 	color:#333333;
@@ -60,7 +60,8 @@ img{
 	padding-left:260px;
 	padding-top:10px;
 }
-/*end of main page styling*/
+/*end of Main Page styling*/
+/*Beginning of Business and Cultural Etiquette styling*/
 .header{
 	color:#333333;
 	font-family:"Tall Film Fine";
@@ -106,7 +107,8 @@ img{
 	border-bottom:1px solid #415952;
 	margin:0px;
 }
-/*end of business & cultural etiquette styling */
+/*end of Business and Cultural Etiquette styling */
+/*Beginning of Transportation styling*/
 #transport{
 	color:#333333;
 	padding-top:5px;
@@ -136,7 +138,7 @@ img{
 	padding-top: 20px;
 }
 
-/*embedding for google maps*/
+/*embedding for Google maps below*/
 iframe{
 	margin:0px;
 }
@@ -145,4 +147,4 @@ iframe{
 padding-top: 10px;
 padding-left:270px;
 }
-/*end of transportation services styling*/
+/*end of transportation styling*/
