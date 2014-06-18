@@ -33,9 +33,14 @@ hr{
 select{
 	margin: 15px 10px 0px 35px;
 	width:100px;
-	font-family: "Print Clearly";
+	font-family:"Print Clearly";
 	font-size:18px;
 	background:#91F5DA;
+}
+#main{
+	position:absolute;
+	padding-left:3px;
+	padding-top:15px;
 }
 .business{
 	background:#91F5DA;
@@ -61,8 +66,14 @@ img{
 	font-family:"Tall Film Fine";
 	text-shadow: 0px 0px 1px 1px #FFF0F5;
 	font-size:60px;
-	text-align:center;
 	margin:0px;
+	text-align:center;
+}
+.arrow{
+	margin:0px;
+	padding-left:10px;
+	padding-top:20px;
+	position:absolute;
 }
 #first{
 	background:#91F5DA;
